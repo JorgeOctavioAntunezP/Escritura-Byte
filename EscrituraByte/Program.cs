@@ -25,7 +25,7 @@ namespace EscrituraByte
                     buffer[nbytes] = (byte)car;
                     nbytes++;
                 }
-                fs.Write(buffer, 8, nbytes);
+                fs.Write(buffer, 0, nbytes);
             }
             catch (IOException e)
             {

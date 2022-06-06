@@ -1,0 +1,7 @@
+C:\Users\Jorge\Desktop\EscrituraByte\EscrituraByte\bin\Debug\EscrituraByte.exe.config
+C:\Users\Jorge\Desktop\EscrituraByte\EscrituraByte\bin\Debug\EscrituraByte.exe
+C:\Users\Jorge\Desktop\EscrituraByte\EscrituraByte\bin\Debug\EscrituraByte.pdb
+C:\Users\Jorge\Desktop\EscrituraByte\EscrituraByte\obj\Debug\EscrituraByte.csproj.AssemblyReference.cache
+C:\Users\Jorge\Desktop\EscrituraByte\EscrituraByte\obj\Debug\EscrituraByte.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\EscrituraByte\EscrituraByte\obj\Debug\EscrituraByte.exe
+C:\Users\Jorge\Desktop\EscrituraByte\EscrituraByte\obj\Debug\EscrituraByte.pdb
